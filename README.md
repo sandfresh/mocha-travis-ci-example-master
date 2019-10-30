@@ -1,8 +1,8 @@
 # mocha-travis-ci-example
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/sandfresh/mocha-travis-ci-example.svg)](https://greenkeeper.io/)
+ 
 
-[![Build Status](https://travis-ci.org/sandfresh/mocha-travis-ci-example.svg?branch=master)](https://travis-ci.org/sandfresh/mocha-travis-ci-example)
+[![Build Status](https://travis-ci.com/sandfresh/mocha-travis-ci-example-master.svg?branch=master)]((https://travis-ci.com/sandfresh/mocha-travis-ci-example-master)
 
 This is a unit test example using mocha. It also integrate with Travis-CI.
 
